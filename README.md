@@ -1,3 +1,4 @@
+![ref-image()
 # DevOps Project: Hosting Static Web App with Docker on AWS
 
 This project demonstrates the deployment of a static web application using Docker on AWS infrastructure. The goal is to provide a comprehensive guide for setting up, building, and deploying a containerized web application with various AWS services. The project leverages GitHub for version control, Docker Hub for image storage, and AWS for hosting and managing the application.
